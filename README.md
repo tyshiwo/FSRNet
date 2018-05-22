@@ -34,4 +34,17 @@ For dataset Helen:
 sh test_Helen_8x.sh 
 ```
 
+## More Qualitative results
+![](figures/more_comp_qualitative.png) 
+
+![](figures/comp_qualitative.png) 
+
+![](figures/comp_CBN.png) 
+
+![](figures/more_comp_CBN.png) 
+
+
+
+
+
 
