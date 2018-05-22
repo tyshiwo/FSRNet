@@ -22,9 +22,16 @@ cd FSRNet
 
 ## Usage
 
+For dataset CelebA:
+
 ```bash
-sh test_CelebA_8x.sh
+sh test_CelebA_8x.sh 
 ```
 
-## More Qualitative results
-![comp](./figures/comp_CBN.pdf)
+For dataset Helen:
+
+```bash
+sh test_Helen_8x.sh 
+```
+
+
