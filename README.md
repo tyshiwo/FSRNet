@@ -35,14 +35,13 @@ sh test_Helen_8x.sh
 ```
 
 ## More Qualitative results
-![](figures/more_comp_qualitative.PNG) 
-
-![](figures/comp_qualitative.PNG) 
+![](figures/more_comp_CBN.PNG) 
 
 ![](figures/comp_CBN.PNG) 
 
-![](figures/more_comp_CBN.PNG) 
+![](figures/comp_qualitative.PNG) 
 
+![](figures/more_comp_qualitative.PNG) 
 
 
 
