@@ -27,4 +27,4 @@ sh test_CelebA_8x.sh
 ```
 
 ## More Qualitative results
-![](figures/comp_CBN.pdf) 
+![comp](./figures/comp_CBN.pdf)
