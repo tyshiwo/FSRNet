@@ -1,5 +1,5 @@
 # FSRNet
-### [[Paper]](https://drive.google.com/open?id=10i2NZfUyf2Yold4ABusz3Que-XN_gEEu) [[Demo]](https://tyshiwo.github.io/projects/faceSR.gif)
+### [[Paper]](https://drive.google.com/open?id=10i2NZfUyf2Yold4ABusz3Que-XN_gEEu) [[Demo]](https://tyshiwo.github.io/projects/faceSR.gif) [[Slides]](https://drive.google.com/file/d/1U117O2ZyBDKVpPL06JA3g3uFtL6vDsp0/view) [[Poster]](https://drive.google.com/file/d/1JaSUxohFUz8m9ukAFzCbiT281nSG5lkY/view)
 
 ### Citation
 If you find FSRNet useful in your research, please consider citing (* indicates equal contributions):
